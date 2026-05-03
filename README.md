@@ -34,7 +34,7 @@ I am a passionate **Software Developer** dedicated to building robust, scalable 
 ### 📫 Connect with Me
 * **LinkedIn:** [https://www.linkedin.com/in/karan -patil-26b895291]
 * **Email:** [karanpatil54784@gmail.com]
-* **GitHub:** []
+* **GitHub:** [https://github.com/karan-patil-1011]
 
 ---
 *“Code is like humor. When you have to explain it, it’s bad.”*
